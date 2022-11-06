@@ -1,0 +1,5 @@
+AB -> D
+B -> C 
+AE -> B
+A -> D
+D -> EF
